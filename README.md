@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denxzy961
+- 👋 Hi, I’m Oluwaseun Olatunji
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Denxzy961/Denxzy961 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oluwaseun Olatunji/Oluwaseun Olatunji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
